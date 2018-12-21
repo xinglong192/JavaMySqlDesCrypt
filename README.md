@@ -1,7 +1,7 @@
 # translationMySqlDesCrypt
 为了兼容改进旧项目，翻译的Java版mysql-des-encrypt和mysql-des-decrypt函数
 
-##Java Code:
+## Java Code:
   - 加密示例：
     ```
       des_encrypt:
